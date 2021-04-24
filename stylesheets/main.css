@@ -88,11 +88,13 @@ nav li a {
 	background-color: #fff;
 }
 
-#home h1 {
+.title h1 {
 	text-align: center;
+	padding-top: 25px;
+	color: #fff;
 }
 
-h1, h2  {
+h2  {
 	margin: 0;
 	padding-bottom: 12px;
 }
@@ -161,6 +163,7 @@ nav li:hover {
 	flex-wrap: wrap;	
 }
 
+
 .item {
 	flex: 1 1 50%;
 }
@@ -195,6 +198,7 @@ iframe {
 #characters, #gallery {
 	text-align: center;
 }
+
 
 header img {
 	width: 50vw;
